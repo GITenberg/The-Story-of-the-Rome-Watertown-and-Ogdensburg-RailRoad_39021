@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39715
     wikipedia: http://en.wikipedia.org/wiki/Edward_Hungerford_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39021#The-Story-of-the-Rome-Watertown-and-Ogdensburg-RailRoad
 gutenberg_issued: '2012-03-01'
 gutenberg_type: Text
 identifiers:
